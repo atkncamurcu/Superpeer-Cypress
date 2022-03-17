@@ -1,7 +1,13 @@
 /// <reference types="cypress" />
+
+const URL = 'https://www.youtube.com'
+const SEARCH_INPUT = 'input#search'
+const SEARCH_ICON = '#search-icon-legacy'
+
+
 export class Homepage{
     navigate(){
-        cy.visit("https://www.youtube.com")
+        cy.visit(URL)
     }
 
     validateTheHomePage(title){
@@ -9,7 +15,7 @@ export class Homepage{
     }
 
     searchKeyword(text){
-        cy.get('input#search').type(text)
-        cy.get('#search-icon-legacy').click()
+        cy.get(SEARCH_INPUT).type(text)
+        cy.get(SEARCH_ICON).click()
     }
 }
