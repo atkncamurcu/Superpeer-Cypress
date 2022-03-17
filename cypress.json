@@ -1,0 +1,6 @@
+{
+    "testFiles": [
+        "search-youtube.feature",
+        "open-video-youtube.feature"
+    ]
+}
