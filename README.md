@@ -1,5 +1,11 @@
 # Superpeer QA Assignment with Cypress
 
+
+
+https://user-images.githubusercontent.com/39865724/158812985-f4749ff7-8b24-4de3-84aa-c9711d93b5ff.mp4
+
+
+
 ## :grey_question: What is Cypress & Cucumber & Gherkin
 - [Cypress](https://www.cypress.io/) is a purely JavaScript-based front end testing tool built for the modern web. It aims to address the pain points developers or QA engineers face while testing an application.
   Cypress is a more developer-friendly tool that uses a unique DOM manipulation technique and operates directly in the browser.
