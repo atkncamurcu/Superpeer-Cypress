@@ -38,7 +38,7 @@
  git clone https://github.com/atkncamurcu/superpeer-assignment-cypress.git
  
  ## cd into the cloned repo
- cd superpeer-assignment-cypress
+ cd superpeer-assignment-cypress-main
  
  ## install the node_modules
  npm install
