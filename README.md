@@ -1,4 +1,4 @@
-# Superpeer QA Assignment with Cypress
+# Superpeer Cypress
 
 
 
